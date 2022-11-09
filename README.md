@@ -19,6 +19,8 @@ Extension to work - ElSherief et al. (2021), "Latent Hatred: A Benchmark for Und
     * implicit_nothate_balanced.csv (2-way)
   * YoutubeReddit : Cross-Domain dataset for qualitative analysis.
   * SubReddit : Datasets collected for temporal analysis using PushShift API.
+  
+  Link to dataset - https://drive.google.com/drive/folders/1-Mq9Z0VRktgJlBkehEUCVthnxKy2obGU?usp=share_link
 
 
 ## Steps to RUN the code -
